@@ -30,7 +30,7 @@ const TodoList: React.FC = () => {
 
   const [title, setTitle] = useState(() => {
     const savedTitle = localStorage.getItem('todoTitle');
-    return savedTitle || 'Todo list';
+    return savedTitle || 'Pheku Todo list';
   });
   
   const [isEditingTitle, setIsEditingTitle] = useState(false);
