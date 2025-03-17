@@ -16,7 +16,7 @@ const Index = () => {
       </div>
       
       <footer className="footer max-w-xl mx-auto">
-        <div>© 2025 Your To Do App. All rights reserved</div>
+        <div>© 2025 Pheku To Do App. All rights reserved</div>
         <div className="footer-links">
           <a href="#" className="footer-link">Privacy Policy</a>
           <span className="text-gray-600 mx-2">•</span>
